@@ -1,4 +1,4 @@
-# English | [中文简体](https://github.com/DHDAXCW/NanoPi-R2S-2021/blob/main/README.md)
+# English
 # NanoPi-R2S-2021 The plug-in and kernel version are automatically updated every day.
 ## 👉Before using this firmware, please strictly abide by the laws and regulations related to the use of the Internet in the country, and do not violate the laws and regulations of the country! 👈
 ## Samsung TF card\Haikang TF card is strongly recommended. Even if the firmware is difficult to flash, only Samsung flashes it to boot.
