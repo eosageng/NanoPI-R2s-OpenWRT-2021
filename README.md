@@ -10,8 +10,6 @@ This month I have been begging without a computer (please be in the computer~). 
 ###-stable: stable and streamlined
 ###-WANLAN: Interchange Gao Daquan
 -Telegram group: https://t.me/DHDAXCW
-# Enjoy a chicken drumstick
- ![Donation](data/2.jpg?raw=true "Title")
 ### If you think this project is helpful to you, you can donate to us to encourage the sustainable development and perfection of the project
 # Plugin display
  ![Plugin display](data/20.jpg?raw=true "Title")
